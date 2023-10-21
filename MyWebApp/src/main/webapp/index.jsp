@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome</h2>
+<h2>Automatic build now</h2>
 </body>
 </html>
