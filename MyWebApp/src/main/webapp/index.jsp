@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Automatic build now</h2>
+<h2>Howdy Folks !!! Welcome to DevOps!</h2>
 </body>
 </html>
